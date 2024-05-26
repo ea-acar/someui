@@ -245,12 +245,6 @@
         @endphp
         <x-table :headers="$headers" :rows="$rows" />
     </div>
-    <div>
-        <br>
-        <p>Avatar</p>
-        <br>
-        <x-avatar src="https://picsum.photos/150" alt="User Avatar" size="12" />
-    </div>
 </div>
 </body>
 </html>
